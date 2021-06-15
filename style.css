@@ -1,0 +1,38 @@
+img {
+    width: 500;
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#apps {
+    background-color: darkcyan;
+    height: 800px;
+}
+
+#games {
+    background-color: lightcoral;
+    height: 800px;
+
+}
+
+#art {
+    background-color: darkblue;
+    height: 800px;
+
+}
+
+#chatbot {
+    background-color: darkgreen;
+    height: 800px;
+
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 200px;
+    margin: 10px;
+}
